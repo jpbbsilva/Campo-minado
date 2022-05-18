@@ -1,0 +1,38 @@
+BODY {
+    background-color: black;
+    color: #DDDDDD;
+    font-family: courier new;
+    text-align: center;
+}
+
+H1 {
+    text-align: center;
+    font-size: 14pt;
+    font-weight: normal;
+}
+
+#table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#table TR TD {
+    border: 1px solid white;
+    background: #999999;
+    width: 16px;
+    height: 16px;
+    text-align: center;
+}
+
+#table TR TD.click {
+    background: #333333;
+}
+
+#table TR TD.mina {
+    background: #FF0000;
+}
+
+
+#table TR TD.bandeira {
+    background-color: darkblue;
+}
