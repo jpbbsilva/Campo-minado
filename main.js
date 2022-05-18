@@ -1,4 +1,3 @@
-//dificldade
 function facil() {
     window.location.href = "facil.html"
 }
